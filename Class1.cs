@@ -42,5 +42,9 @@ namespace C_Sharp_Otus
         {
             return new Matrix(m1.a * -1, m1.b * -1, m1.c * -1, m1.d * -1);
         }
+        public static double Opr(Matrix m1)
+        {
+            return m1.a * m1.d - m1.b * m1.c;
+        }
     }
 }
