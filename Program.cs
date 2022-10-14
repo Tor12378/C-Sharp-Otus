@@ -1,5 +1,5 @@
 ﻿
-namespace C_Sharp_Otus
+namespace CSharpOtus
 {
     class Program
     {

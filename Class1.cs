@@ -6,7 +6,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Sharp_Otus
+namespace CSharpOtus
 {
     public class Matrix
     {
